@@ -13,9 +13,7 @@ A sleek, stylish **Digital Clock** built using **HTML, CSS, and JavaScript**. Th
 
 ## 🎥 Demo Preview
 
-![Digital Clock Preview](https://via.placeholder.com/800x400?text=Digital+Clock+Preview)
-
-🔗 **[Live Demo](#)** – Click here to see it in action!  
+🔗 **[Live Demo](https://digital-clock01.vercel.app/)** – Click here to see it in action!  
 
 ---
 
@@ -75,15 +73,6 @@ updateClock();
 
 ---
 
-## 📸 Screenshots  
-
-### 🌟 Desktop View  
-![Desktop Screenshot](https://via.placeholder.com/800x400?text=Desktop+View)
-
-### 📱 Mobile View  
-![Mobile Screenshot](https://via.placeholder.com/400x800?text=Mobile+View)
-
----
 
 ## 🎯 Future Enhancements  
 
